@@ -1,0 +1,35 @@
+{
+  "name": "ckeditor5-adapter-aliyun",
+  "description": "aliyun adapter for ckeditor 5.",
+  "version": "1.0.0",
+  "files": [
+    "lang",
+    "src"
+  ],
+  "homepage": "https://github.com/talentant/ckeditor5-adapter-aliyun",
+  "author": {
+    "name": "talentant",
+    "url": "https://github.com/talentant"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/talentant/ckeditor5-adapter-aliyun.git"
+  },
+  "keywords": [
+    "adapter",
+    "aliyun",
+    "ckeditor"
+  ],
+  "bugs": {
+    "url": "https://github.com/talentant/ckeditor5-adapter-aliyun/issues"
+  },
+  "scripts": {},
+  "devDependencies": {},
+  "dependencies": {
+    "@ckeditor/ckeditor5-core": "^12.1.1",
+    "@ckeditor/ckeditor5-upload": "^11.0.2",
+    "axios": "^0.19.0",
+    "qs": "^6.7.0"
+  }
+}
